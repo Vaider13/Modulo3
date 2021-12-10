@@ -1,0 +1,13 @@
+.pink{
+  background-color: pink;
+}
+button{
+  padding: 3px;
+  margin: 5px;
+  display: block;
+  background-color:cornsilk;
+}
+.red{
+  background-color: #ff0000;
+  color: white;
+}
